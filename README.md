@@ -15,4 +15,6 @@ bash train.sh
 
 The pre-trained Discriminator and trained GA-SA-RBF model are available [here](https://drive.google.com/drive/folders/1LtWTjKgW7uorj2qvG_ZO3D5fFRTe-Ivx?usp=sharing).
 
+Remember that the pretrained discriminator `D.pt` should be put in the `pre_trained` folder.
+
 
