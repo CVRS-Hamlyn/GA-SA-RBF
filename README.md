@@ -1,6 +1,6 @@
 # GA-SA-RBF
 Paper "Distance Regression Enhanced with Temporal Information Fusion and Adversarial Training for Robot-Assisted Endomicroscopy" gets accepted in IEEE-TMI.
-![framework](figs/fw.jpg)
+![framework](figs/fw.png)
 
 ## pCLE Regression Dataset 
 The dataset is avaliable [[`here`](https://zenodo.org/records/7147878)].
